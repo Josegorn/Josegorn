@@ -4,9 +4,9 @@
 
 ## Sobre Mí
 
-- 🎓 Licenciado en Química y Ingeniero en Informática.
-- 🎸 Amante de la música rock, punk y trance.
-- 🎥 Aficionado al cine y las novelas de ciencia ficción.
+- 🎓 Licenciado en Química e Ingeniero en Informática.
+- 🎸 Amante de la música, en especial la música rock, punk y psi-trance.
+- 🎥 Aficionado al cine y novelas de misterio y ciencia ficción.
 - 🌱 Veganismo y ecologismo son parte de mi estilo de vida.
 
 ## Contribuciones Bienvenidas
